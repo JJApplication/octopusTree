@@ -4,7 +4,7 @@
   "type": "Service",
   "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "默认中文描述",
+  "chs_des": "微服务全局管理服务",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

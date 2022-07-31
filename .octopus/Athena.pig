@@ -4,7 +4,7 @@
   "type": "DataStore",
   "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "默认中文描述",
+  "chs_des": "提供统一接口的数据库中间层",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

@@ -4,7 +4,7 @@
   "type": "Module",
   "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "默认中文描述",
+  "chs_des": "全局unix-domain socket管理服务",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
