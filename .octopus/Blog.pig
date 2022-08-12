@@ -5,6 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "个人博客",
+  "link": "https://blog.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

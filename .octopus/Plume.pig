@@ -5,6 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "服务器状态监控服务",
+  "link": "http://plume.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

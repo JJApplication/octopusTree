@@ -5,6 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "旧版的微服务状态管理服务",
+  "link": "http://app.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

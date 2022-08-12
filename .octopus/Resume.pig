@@ -5,6 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "个人简历",
+  "link": "http://me.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

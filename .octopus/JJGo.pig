@@ -5,6 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "统一的API接口服务",
+  "link": "http://api.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",

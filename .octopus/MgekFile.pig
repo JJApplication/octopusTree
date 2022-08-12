@@ -5,6 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "文件服务器",
+  "link": "http://file.mgek.cc",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
