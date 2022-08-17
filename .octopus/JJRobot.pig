@@ -1,7 +1,7 @@
 {
   "name": "JJRobot",
   "id": "app_jjrobot",
-  "type": "Service",
+  "type": "Module",
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "服务器状态自动推送机器人",

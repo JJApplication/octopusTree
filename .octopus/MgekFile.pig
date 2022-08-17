@@ -1,7 +1,7 @@
 {
   "name": "MgekFile",
   "id": "app_mgekfile",
-  "type": "Service",
+  "type": "NoEngine",
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "文件服务器",

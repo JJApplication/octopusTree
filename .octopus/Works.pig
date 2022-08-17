@@ -1,7 +1,7 @@
 {
   "name": "Works",
   "id": "app_works",
-  "type": "Service",
+  "type": "NoEngine",
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "个人项目的mkdocs文档",

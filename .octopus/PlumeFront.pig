@@ -1,7 +1,7 @@
 {
   "name": "PlumeFront",
   "id": "app_plumefront",
-  "type": "Service",
+  "type": "NoEngine",
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "默认中文描述",

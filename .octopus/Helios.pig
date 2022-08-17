@@ -1,11 +1,10 @@
 {
-  "name": "Resume",
-  "id": "app_resume",
-  "type": "NoEngine",
-  "release_status": "published",
+  "name": "Helios",
+  "id": "app_helios",
+  "type": "Module",
+  "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "个人简历",
-  "link": "http://me.renj.io",
+  "chs_des": "",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
@@ -15,7 +14,7 @@
   },
   "meta": {
     "author": "",
-    "domain": "me.renj.io",
+    "domain": "",
     "language": [],
     "create_date": "",
     "version": "1.0.0",
