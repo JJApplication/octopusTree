@@ -1,10 +1,10 @@
 {
-  "name": "Helios",
-  "id": "app_helios",
+  "name": "Themis",
+  "id": "app_themis",
   "type": "Module",
   "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "RSync全局备份模块",
+  "chs_des": "(OAuth)全局统一身份验证模块",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
