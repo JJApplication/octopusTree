@@ -1,7 +1,7 @@
 {
   "name": "Homeland",
   "id": "app_homeland",
-  "type": "Service",
+  "type": "NoEngine",
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "主页",
