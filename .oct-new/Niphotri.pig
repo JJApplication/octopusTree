@@ -1,10 +1,10 @@
 {
-  "name": "TrojanGeek",
-  "id": "app_trojangeek",
+  "name": "Niphotri",
+  "id": "app_niphotri",
   "type": "Service",
   "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "Trojan core",
+  "chs_des": "Niphotri core",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",
