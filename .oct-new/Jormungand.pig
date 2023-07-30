@@ -1,11 +1,11 @@
 {
-  "name": "CookBook",
-  "id": "app_cookbook",
-  "type": "NoEngine",
-  "release_status": "published",
+  "name": "Jormungand",
+  "id": "app_jormungand",
+  "type": "Module",
+  "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "默认中文描述",
-  "link": "http://cookbook.renj.io",
+  "chs_des": "终止服务, 全局备份, 删除环境",
+  "link": "",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
@@ -15,7 +15,7 @@
   },
   "meta": {
     "author": "",
-    "domain": "cookbook.renj.io",
+    "domain": "",
     "language": [],
     "create_date": "",
     "version": "1.0.0",
