@@ -4,7 +4,7 @@
   "type": "Module",
   "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "终止服务, 全局备份, 删除环境",
+  "chs_des": "Option Center配置中心",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",

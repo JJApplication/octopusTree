@@ -4,7 +4,7 @@
   "type": "Service",
   "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "微服务状态树",
+  "chs_des": "[混沌] 可视化面板",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",

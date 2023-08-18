@@ -4,7 +4,7 @@
   "type": "Module",
   "release_status": "unreleased",
   "eng_des": "default english description",
-  "chs_des": "",
+  "chs_des": "Apollo注册的动态组件",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",
