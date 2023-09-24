@@ -1,10 +1,10 @@
 {
-  "name": "Redis",
-  "id": "app_redis",
+  "name": "MongoDB",
+  "id": "app_mongo",
   "type": "Container",
   "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "Redis缓存容器",
+  "chs_des": "MongoDB容器",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",

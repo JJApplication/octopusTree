@@ -4,7 +4,7 @@
   "type": "Container",
   "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "Redis缓存容器",
+  "chs_des": "InfluxDB容器",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",
