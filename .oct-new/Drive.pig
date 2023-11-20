@@ -5,7 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "云端webdav存储",
-  "link": "drive.renj.io",
+  "link": "http://drive.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
