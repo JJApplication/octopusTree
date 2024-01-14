@@ -1,6 +1,6 @@
 {
-  "name": "Redis",
-  "id": "app_redis",
+  "name": "InfluxDB",
+  "id": "app_influxdb",
   "type": "Container",
   "release_status": "published",
   "eng_des": "default english description",

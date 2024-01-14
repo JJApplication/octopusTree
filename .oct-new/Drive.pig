@@ -15,7 +15,7 @@
   },
   "meta": {
     "author": "",
-    "domain": "",
+    "domain": "drive.renj.io",
     "language": [],
     "create_date": "",
     "version": "1.0.0",
@@ -25,7 +25,7 @@
   },
   "run_data": {
     "envs": [],
-    "ports": [],
+    "ports": [5244],
     "random_port": false,
     "host": "localhost"
   },

@@ -5,7 +5,7 @@
   "release_status": "testing",
   "eng_des": "default english description",
   "chs_des": "每日打卡",
-  "link": "card.renj.io",
+  "link": "http://card.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
@@ -15,7 +15,7 @@
   },
   "meta": {
     "author": "",
-    "domain": "",
+    "domain": "card.renj.io",
     "language": [],
     "create_date": "",
     "version": "1.0.0",
@@ -25,7 +25,7 @@
   },
   "run_data": {
     "envs": [],
-    "ports": [],
+    "ports": [5230],
     "random_port": false,
     "host": "localhost"
   },
