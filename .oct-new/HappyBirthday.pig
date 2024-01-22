@@ -1,7 +1,7 @@
 {
   "name": "HappyBirthday",
   "id": "app_happybirthday",
-  "type": "Service",
+  "type": "NoEngine",
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "纪念",
