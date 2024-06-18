@@ -1,10 +1,10 @@
 {
-  "name": "NoEngine",
-  "id": "app_noengine",
-  "type": "Container",
+  "name": "Traefik",
+  "id": "app_traefik",
+  "type": "Service",
   "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "顶层架构的负载均衡, 流量统计, 静态伺服服务",
+  "chs_des": "API Gateway",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",
