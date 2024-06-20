@@ -5,7 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "个人项目",
-  "link": "http://mgek.cc",
+  "link": "http://mgek.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
@@ -15,7 +15,7 @@
   },
   "meta": {
     "author": "",
-    "domain": "mgek.cc",
+    "domain": "mgek.renj.io",
     "language": [],
     "create_date": "",
     "version": "2021.12.14",

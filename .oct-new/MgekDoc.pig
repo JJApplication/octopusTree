@@ -5,7 +5,7 @@
   "release_status": "published",
   "eng_des": "default english description",
   "chs_des": "个人项目文档",
-  "link": "http://doc.mgek.cc",
+  "link": "http://doc.renj.io",
   "manage_cmd": {
     "start": "start.sh",
     "stop": "stop.sh",
@@ -15,7 +15,7 @@
   },
   "meta": {
     "author": "",
-    "domain": "doc.mgek.cc",
+    "domain": "doc.renj.io",
     "language": [],
     "create_date": "",
     "version": "1.0.0",
