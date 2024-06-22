@@ -2,9 +2,9 @@
   "name": "Heimdallr",
   "id": "app_heimdallr",
   "type": "Module",
-  "release_status": "unreleased",
+  "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "密钥管理与分发, 数据加解密",
+  "chs_des": "微服务守护",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",
