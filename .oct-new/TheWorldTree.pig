@@ -2,9 +2,9 @@
   "name": "TheWorldTree",
   "id": "app_twt",
   "type": "Service",
-  "release_status": "unreleased",
+  "release_status": "published",
   "eng_des": "default english description",
-  "chs_des": "微服务包管理生命周期",
+  "chs_des": "微服务包代码仓管理服务",
   "link": "",
   "manage_cmd": {
     "start": "start.sh",
